@@ -6,3 +6,9 @@ Circular linked list: A (corrupt) linked list in which a node's next pointer poi
 EXAMPLE
 Input: A -> B -> C -> D -> E -> C [the same C as earlier]
 Output: C
+
+
+The Solution is `findLoop()` inside of LLLoop.py. To test run, use:
+
+    python LLLoop.py
+    
